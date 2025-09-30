@@ -8,7 +8,7 @@ function filterCards() {
   });
 }
 function Beranda() {
-    window.location.href = "https://58s0kj02s.github.io/4ljs4la1w55jso2/";
+    window.location.href = "https://hadzz-mcpe.github.io/addon_mcpe/";
   }
   function addon() {
     window.location.reload();
